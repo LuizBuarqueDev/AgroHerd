@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --color-1: #D6D58E;
+    --color-2: #DBF227;
+    --color-3: #9FC131;
+    --color-4: #005C53;
+    --color-5: #042940;
+    --background-color: white;
+}
+
+.custom-nav {
+    background-color: var(--color-4);
+}
+
+.custom-nav a {
+    color: white;
+}
